@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KadriKode
 - 👀 I’m interested in JAVA,SPRING ,ANGULAR,REST API,JAVAFX
-- 🌱 I’m currently learning REACT,Django
+- 🌱 I’m currently learning REACT
 
 
 <!---
